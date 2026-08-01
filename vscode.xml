@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VSCode>
+    <Name>Visual Studio Code</Name>
+    <Version>1.60.0</Version>
+    <Description>A lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux.</Description>
+    <Url>https://code.visualstudio.com/</Url>
+    <License>MIT</License>
+    <Author>Microsoft</Author>
+    <Dependencies>
+        <Dependency>Node.js</Dependency>
+        <Dependency>Electron</Dependency>
+    </Dependencies>
+    <Features>
+        <Feature>Syntax highlighting</Feature>
+        <Feature>IntelliSense</Feature>
+        <Feature>Debugging</Feature>
+        <Feature>Extensions Marketplace</Feature>
+        <Feature>Git integration</Feature>
+    </Features>
+    <Platforms>
+        <Platform>Windows</Platform>
+        <Platform>macOS</Platform>
+        <Platform>Linux</Platform>
+    </Platforms>
+</VSCode>
